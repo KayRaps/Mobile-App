@@ -4,7 +4,7 @@ Make it so that when you click the 'Add to cart' button, whatever is written in 
 */
 
 const inputFieldEl = document.getElementById("input-filed")
-const addButtonEl = document.getElementById("ad-button")
+const addButtonEl = document.getElementById("add-button")
 
 addButtonEl.addEventListener("click", function() {
     console.log("it works")
