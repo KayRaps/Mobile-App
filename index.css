@@ -25,7 +25,8 @@ input {
     border-radius: 8px;
     font-size: 20px;
     text-align: center;
-    font-family: 'Rubik', sans-serif
+    font-family: 'Rubik', sans-serif;
+    margin: 10px 0;
 
 }
 
@@ -33,9 +34,9 @@ button {
     color: #FDFDFD;
     background-color: #AC485A;
     border: 0;
-    padding: 15;
+    padding: 15px;
     border-radius: 8px;
     font-size: 20px;
     text-align: center;
-    font-family: 'Rubik', sans-serif;
+    font-family: 'Rubik', sans-serif
 }
